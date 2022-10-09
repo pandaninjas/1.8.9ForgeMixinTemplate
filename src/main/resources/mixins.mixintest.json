@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "package": "gq.malwarefight.mixintest.mixins",
+  "refmap": "mixins.mixintest.refmap.json",
+  "mixins": [
+    "MixinMinecraft"
+  ]
+}
